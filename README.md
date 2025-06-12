@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact:"Your Eraser Slowly dies because of your mistakes."😄😄😄
 
   ``` java
-  System.out.println("Hello there! 😊);
+  System.out.println("Hello there! 😊");
   ```
