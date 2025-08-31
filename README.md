@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ik.imagekit.io/pqndegssq/worker_profiles/164669390_Q6_oVs9QT.jpeg?updatedAt=1755483629916" align="center" style="width: 600 height=100" />
+<img src="https://ik.imagekit.io/pqndegssq/worker_profiles/164669390_Q6_oVs9QT.jpeg?updatedAt=1755483629916" align="center" style="width: 100% height=100" />
 </div>  
   
 
@@ -102,13 +102,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yamneg96&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamneg96&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamneg96&hide_border=true&layout=compact" align="left" style=" background-color: black; width: 100%" />  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
