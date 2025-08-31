@@ -72,7 +72,14 @@
 
 ## 🎶 Currently Vibing To  
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" />
+
+🎧 **Coding Playlist:**  
+- 🌀 Lo-fi beats while debugging React apps  
+- ⚡ Afrobeat & Ethiopian Jazz for late-night coding sessions  
+- 🔮 Tech podcasts (AI, Data Analytics, Web Dev trends)  
+
+💡 *"Clean code with a clean vibe."*  
+
 </div>  
 
 ---
