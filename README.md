@@ -68,19 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamneg96&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>  
 
----
-
-## 🎶 Currently Vibing To  
-<div align="center">
-
-🎧 **Coding Playlist:**  
-- 🌀 Tekeste Getnet while debugging React apps  
-- ⚡ Awesome God Song for late-night coding sessions  
-- 🔮 Tech podcasts (AI, Data Analytics, Web Dev trends)  
-
-💡 *"Clean code with a clean vibe."*  
-
-</div>  
 
 ---
 
