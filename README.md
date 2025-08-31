@@ -57,7 +57,7 @@
 <div align="center">
   <a href="https://github.com/yamneg96" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://twitter.com/MtntL55385" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yamlaknegash96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>  
 
 ---
@@ -74,8 +74,8 @@
 <div align="center">
 
 🎧 **Coding Playlist:**  
-- 🌀 Lo-fi beats while debugging React apps  
-- ⚡ Afrobeat & Ethiopian Jazz for late-night coding sessions  
+- 🌀 Tekeste Getnet while debugging React apps  
+- ⚡ Awesome God Song for late-night coding sessions  
 - 🔮 Tech podcasts (AI, Data Analytics, Web Dev trends)  
 
 💡 *"Clean code with a clean vibe."*  
