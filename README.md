@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ik.imagekit.io/pqndegssq/worker_profiles/164669390_Q6_oVs9QT.jpeg?updatedAt=1755483629916" align="center" style="width: 100%" />
+<img src="https://ik.imagekit.io/pqndegssq/worker_profiles/164669390_Q6_oVs9QT.jpeg?updatedAt=1755483629916" align="center" style="width: 100 height=100" />
 </div>  
   
 
