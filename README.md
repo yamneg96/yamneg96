@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ik.imagekit.io/pqndegssq/worker_profiles/164669390_Q6_oVs9QT.jpeg?updatedAt=1755483629916" align="center" style="width: 100 height=100" />
+<img src="https://ik.imagekit.io/pqndegssq/worker_profiles/164669390_Q6_oVs9QT.jpeg?updatedAt=1755483629916" align="center" style="width: 600 height=100" />
 </div>  
   
 
@@ -108,9 +108,7 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 <br/>  
 
