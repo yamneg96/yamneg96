@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ik.imagekit.io/pqndegssq/worker_profiles/164669390_Q6_oVs9QT.jpeg?updatedAt=1755483629916" style="border-radius: 20px; width: 100%; max-width: 800px;" />
+  <img src="https://ik.imagekit.io/pqndegssq/worker_profiles/164669390_Q6_oVs9QT.jpeg?updatedAt=1755483629916" style="border-radius: 20px; width: 100%; max-width: 80px;" />
 </div>  
 
 ---
