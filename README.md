@@ -20,7 +20,7 @@
   <b><i>“First solve the problem. Then, write the code.”</i> – John Johnson</b>
 </p>
 
-<a href="https://yamlak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yamlak.vercel.app-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://yamlak-ecru.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yamlak.vercel.app-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/yamlak-negash-43827a399"><img src="https://img.shields.io/badge/LinkedIn-Yamlak%20Negash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/yamneg96"><img src="https://img.shields.io/badge/GitHub-yamneg96-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
