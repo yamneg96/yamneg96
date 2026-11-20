@@ -210,8 +210,6 @@ Hi, I'm **Yamlak**, a Software Engineering student at **Addis Ababa University**
 
 </div>
 
-> 💡 Stats cards only count private work if you enable *"Private contributions"* in your GitHub profile settings.
-
 ---
 
 ## 🧭 What I'm Working Toward
